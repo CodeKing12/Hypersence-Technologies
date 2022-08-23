@@ -1,0 +1,9 @@
+.brand-logo img {
+    width: 160px;
+    height: 100px !important;
+    object-fit: contain;
+}
+
+.brand-logo img.color-bg {
+    background-color: #111;
+}
